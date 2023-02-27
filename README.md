@@ -38,6 +38,9 @@
 ![Jira](https://img.shields.io/badge/-jira-black?style=flat-square&logo=jira)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
 ![K8s](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Go](https://img.shields.io/badge/-go-black?style=flat-square&logo=go)
+![Gin](https://img.shields.io/badge/-gin-black?style=flat-square&logo=gin)
+
 ###
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rajat117.Rajat117)
