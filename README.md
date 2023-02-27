@@ -39,7 +39,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
 ![K8s](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Go](https://img.shields.io/badge/-go-black?style=flat-square&logo=go)
-![Gin](https://img.shields.io/badge/-gin-black?style=flat-square&logo=gin)
+![Gin](https://img.shields.io/badge/Go-Gin-brightgreen)
 
 ###
 
